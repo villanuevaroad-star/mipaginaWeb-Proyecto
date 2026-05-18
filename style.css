@@ -1,0 +1,10 @@
+body{
+font-family: Arial;
+text-align: center;
+background-color: rgb(207, 102, 171);
+}
+button{
+    background-color:aquamarine ;
+    color: black;
+    border: 0cap;
+}
